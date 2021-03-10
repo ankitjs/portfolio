@@ -6818,11 +6818,15 @@ body {
 }
 #pyramid > div:nth-child(2):after {
   position: absolute;
-  content: url(//jacekjeznach.com/wp-content/themes/jj/css/../img/logo2.png);
+  content: url(../images/vue.png);
+  left: -338px !important;
+  top: -50px !important;
 }
 #pyramid > div:nth-child(3):after {
   position: absolute;
-  content: url(//jacekjeznach.com/wp-content/themes/jj/css/../img/logo3.png);
+  content: url(../images/react.png);
+  left: -364px !important;
+  top: -116px !important;
 }
 #pyramid > div:nth-child(4):after {
   position: absolute;
