@@ -1,2 +1,2 @@
 # portfolio
-https://ankitjs.github.io/portfolio/
+https://ankitjs.github.io/portfolio/#/
